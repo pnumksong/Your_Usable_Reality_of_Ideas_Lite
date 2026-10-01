@@ -43,4 +43,4 @@ Your Usable Reality of Ideas에서 체계를 줄이고 꼭 필요한 것만 남�
 
 ## 감사의 말
 
-이 작업 공간의 아이디어를 주신 ContextA(https://contexta.co.kr/) 대표님께 감사드립니다.
+본 작업 폴더의 구상은 넥스트 제너레이션 아키비스트 클럽에서 시작하였으며, 스터디를 운영하고 아이디어를 주신 [ContextA](https://contexta.co.kr/)의 정혜지 대표님께 감사드립니다.
