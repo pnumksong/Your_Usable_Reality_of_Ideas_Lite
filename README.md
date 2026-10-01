@@ -4,7 +4,7 @@ Your Usable Reality of Ideas에서 체계를 줄이고 꼭 필요한 것만 남�
 
 ![작업 공간이 돌아가는 방식](workspace-flow.svg)
 
-- 작업기록, 데일리 노트, 작업 단위와 시작 프롬프트까지 갖춘 Your Usable Reality of Ideas: https://github.com/pnumksong/Your_Usable_Reality_of_Ideas
+- 네 줄 작업기록, 데일리 노트, 주간 점검, 작업 단위와 시작 프롬프트까지 갖춘 Your Usable Reality of Ideas: https://github.com/pnumksong/Your_Usable_Reality_of_Ideas
 
 ## 다운로드
 
@@ -17,18 +17,20 @@ Your Usable Reality of Ideas에서 체계를 줄이고 꼭 필요한 것만 남�
 | 폴더 | 하는 일 |
 |---|---|
 | `AGENTS.md`, `CLAUDE.md` | 공통 지침(목적, 규칙, 체계 수정). 도구가 먼저 읽는다. 두 파일은 내용이 같다 |
-| `Projects/` | 프로젝트마다 폴더 하나. 목표는 `plan.md`, 작업기록은 `log.md`에 한 줄씩 |
+| `Projects/` | 프로젝트마다 폴더 하나. 목표는 `plan.md`, 작업기록은 `log.md`에 한 줄씩. 가이드나 논문 같은 참고자료는 그 폴더에 두거나 `plan.md`에 주소를 적는다 |
 | `Data/` | 근거자료 중 모은 데이터와 그 출처 목록(`Data/README.md`) |
 | `Sandbox/` | 연습과 생각 정리. 작업기록을 남기지 않고 지워도 된다 |
 
-## Your Usable Reality of Ideas와 다른 점
+## Lite 버전에서 달라진 점
 
 - 네 줄 작업기록 대신 한 줄 로그(`log.md`)를 쓰고, 데일리 노트, 주간 점검, 프로젝트별 지침, 참고자료 폴더, 예시 프로젝트가 없다.
-- 그 대신 도구가 따르는 규칙은 다음과 같다.
+- 도구가 따르는 핵심 규칙은 기본 버전과 같다.
   - 작업마다 판단의 근거로 쓴 근거자료의 위치를 알려 준다.
   - 새로 무엇을 만들 때는 목표를 먼저 묻는다.
   - 파일을 수정할 때는 예상되는 변화와 파급 효과를 설명하고 승인을 요청한다.
   - 체계 수정을 비롯한 주요 작업은 계획을 먼저 올리고 작업자가 직접 승인한 뒤 진행한다.
+  - 새 대화는 그 프로젝트 `log.md`의 마지막 다음 할 일부터 시작한다.
+- 그 밖에 승격과 Sandbox 참조 금지, 참조 표시, 제출본 사본, 키 파일 보호, 설치 확인 규칙이 `AGENTS.md`에 있다.
 - 이 규칙과 폴더는 기본값이며, 작업자의 의도와 상황에 따라 구조를 얼마든지 수정할 수 있다.
 - 체계가 필요해지면 Your Usable Reality of Ideas의 해당 부분을 가져와 쓴다.
 
