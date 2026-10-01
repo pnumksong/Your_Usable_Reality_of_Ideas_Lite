@@ -5,6 +5,7 @@ Your Usable Reality of Ideas에서 체계를 줄이고 꼭 필요한 것만 남�
 ![작업 공간이 돌아가는 방식](workspace-flow.svg)
 
 - 네 줄 작업기록, 데일리 노트, 주간 점검, 작업 단위와 시작 프롬프트까지 갖춘 Your Usable Reality of Ideas: https://github.com/pnumksong/Your_Usable_Reality_of_Ideas
+- 특강 자료(발표 PDF): https://github.com/pnumksong/Your_Usable_Reality_of_Ideas/releases/latest
 
 ## 다운로드
 
