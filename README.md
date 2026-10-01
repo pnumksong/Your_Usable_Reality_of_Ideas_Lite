@@ -4,7 +4,7 @@ Your Usable Reality of Ideas에서 체계를 줄이고 꼭 필요한 것만 남�
 
 ![작업 공간이 돌아가는 방식](workspace-flow.svg)
 
-- 기록, 데일리 노트, 작업 단위와 시작 프롬프트까지 갖춘 Your Usable Reality of Ideas: (GitHub에 올린 뒤 주소를 적음)
+- 기록, 데일리 노트, 작업 단위와 시작 프롬프트까지 갖춘 Your Usable Reality of Ideas: https://github.com/pnumksong/Your_Usable_Reality_of_Ideas
 
 ## 받아서 시작하기
 
